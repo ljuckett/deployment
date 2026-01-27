@@ -65,7 +65,7 @@ p2trackervalidationlayout(dqmitems, "08 - OT Stub Delta R",
                           'description': "Delta R of Stubs in the endcaps (Strips)"}])
 
 p2trackervalidationlayout(dqmitems, "09 - OT Stub Rate",
-                        [{ 'path':"TrackerPhase2OTStubV/",
+                        [{ 'path':"TrackerPhase2OTStubV/Residual/number_of_stubs",
                            'description': "Stub rate"}])
 
 p2trackervalidationlayout(dqmitems, "10 - OT L1Tracking Nominal eta",
